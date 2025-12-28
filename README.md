@@ -150,7 +150,5 @@ If you use this idea or the prototype in an academic or technical publication, y
   author       = {Tumakov, Maksim D.},
   title        = {Noise Pattern Mining in Unnormalized Security Events Using Transformer Embeddings and Clustering},
   year         = {2025},
-  howpublished = {Preprint (manuscript)},
-  note         = {Preprint. Please update URL/DOI after public release.},
   url          = {https://github.com/mt-labx/macro2micro}
 }
