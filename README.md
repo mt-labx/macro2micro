@@ -147,7 +147,7 @@ If you use this idea or the prototype in an academic or technical publication, y
 
 ```bibtex
 @misc{Tumakov2025NoisePatternMiningPreprint,
-  author       = {Tumakov, Maksim D.},
+  author       = {Tumakov, Maksim},
   title        = {Noise Pattern Mining in Unnormalized Security Events Using Transformer Embeddings and Clustering},
   year         = {2025},
   url          = {https://github.com/mt-labx/macro2micro}
